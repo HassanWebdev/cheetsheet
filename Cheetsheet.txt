@@ -1,0 +1,35 @@
+
+Font Libraries:
+- Google Fonts: https://fonts.google.com/
+- Fontsource: https://fontsource.org/
+- Typekit: https://fonts.adobe.com/typekit
+- Font Squirrel: https://www.fontsquirrel.com/
+- DaFont: https://www.dafont.com/
+- Open Font Library: https://fontlibrary.org/
+
+Component Libraries:
+- Material-UI (MUI): https://mui.com/
+- Chakra UI: https://chakra-ui.com/
+- Ant Design: https://ant.design/
+- React Bootstrap: https://react-bootstrap.github.io/
+- Tailwind UI: https://tailwindui.com/
+- shadcn/ui: https://ui.shadcn.com/
+- Mantine: https://mantine.dev/
+- Semantic UI React: https://react.semantic-ui.com/
+
+Animation Libraries:
+- Framer Motion: https://www.framer.com/motion/
+- React Spring: https://react-spring.io/
+- Anime.js: https://animejs.com/
+- GSAP (GreenSock): https://greensock.com/gsap/
+- Lottie: https://airbnb.design/lottie/
+
+Interactive Animation Libraries:
+- Acternity UI: https://ui.acternity.com/
+- Magic UI: https://www.magic-ui.com/
+- React Move: https://react-move.js.org/
+- React-Motion: https://github.com/chenglou/react-motion
+- React Transition Group: https://reactcommunity.org/react-transition-group/
+- React Awesome Reveal: https://react-awesome-reveal.morello.dev/
+- AOS (Animate On Scroll): https://michalsnik.github.io/aos/
+- Popmotion: https://popmotion.io/
