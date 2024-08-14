@@ -33,3 +33,4 @@ Interactive Animation Libraries:
 - React Awesome Reveal: https://react-awesome-reveal.morello.dev/
 - AOS (Animate On Scroll): https://michalsnik.github.io/aos/
 - Popmotion: https://popmotion.io/
+- Motion-Primitives :https://motion-primitives.com/
