@@ -34,3 +34,16 @@ Interactive Animation Libraries:
 - AOS (Animate On Scroll): https://michalsnik.github.io/aos/
 - Popmotion: https://popmotion.io/
 - Motion-Primitives :https://motion-primitives.com/
+
+
+user object schema {
+      key: "last_name",
+      label: "Last Name",
+      type: "text",
+      dependencies: [],
+      validation: {
+        required: true,
+        pattern: /^[A-Za-z]+$/,
+        message: "This field is required & must only contain letters",
+      },
+    },
